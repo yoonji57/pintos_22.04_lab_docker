@@ -13,3 +13,4 @@ test_alarm_zero (void)
   timer_sleep (0);
   pass ();
 }
+
